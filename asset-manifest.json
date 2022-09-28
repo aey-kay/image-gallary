@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git@github.com:aey-kay/image-gallary.git/static/css/main.da23c65e.css",
+    "main.js": "/git@github.com:aey-kay/image-gallary.git/static/js/main.a1567148.js",
+    "index.html": "/git@github.com:aey-kay/image-gallary.git/index.html",
+    "main.da23c65e.css.map": "/git@github.com:aey-kay/image-gallary.git/static/css/main.da23c65e.css.map",
+    "main.a1567148.js.map": "/git@github.com:aey-kay/image-gallary.git/static/js/main.a1567148.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da23c65e.css",
+    "static/js/main.a1567148.js"
+  ]
+}
